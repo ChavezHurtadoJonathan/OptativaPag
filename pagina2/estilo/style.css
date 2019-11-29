@@ -1,0 +1,35 @@
+#botonera{
+    background: cornsilk;
+    
+}
+#contenedor{
+    background:#dedede;
+    padding:10px;
+    overflow:hidden;
+              }
+  #izquierdo{
+    float:left;
+    padding:10px;
+    color:#bbbbbb;
+    width:300px;
+    margin:40px;
+    background:#ffffff;
+    }
+  #derecho{
+    float:left;
+    padding:10px;
+    color:#bbbbbb;
+    width:300px;
+    margin:40px;
+    background:#ffffff;
+    }
+     #derecho1{
+    float:left;
+    padding:10px;
+    color:#bbbbbb;
+    width:300px;
+    margin:40px;
+    background:#ffffff;
+    }
+table, td, th {border:1px solid silver; border-collapse:collapse; padding:3px 6px;}
+#text {color:#858585;}
